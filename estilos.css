@@ -1,35 +1,54 @@
 .Nome {
+    font-size: 40px;
     color: black;
     background-color: red;
-}
-.Curso {
-    color: black;
-    background-color: red;
-}
+    border-style: solid;   
+    margin-right: 100px;
+    padding: 5px 15px;
+}    
+
 .DataNascimento {
+    font-size: 40px;
     color: black;
     background-color: red;
+    border-style: solid;   
+    padding: 5px 15px;
 }
-.UltimaAtualizacao {
+
+.Curso {
+    font-size: 40px;
     color: black;
     background-color: red;
+    border-style: solid;
+    padding: 5px 15px;
+    margin-right: 65px;
 }
 
-.Rotina {
+.Atualização {
+    font-size: 40px;
+    color: black;
+    background-color: red;
+    border-style: solid;
+    padding: 5px 15px;  
+}
+
+.Container{
+    height: 400px;
+    width: 400px;
+}
+
+.spans {    
     color:black;
     background-color: blue;
-}
-.Hobbies {
-    color: black;
-    background-color: greenyellow;
-}
+    border-style: solid;
+   
+    padding: 15px 10px;
+    margin: 50px 50px 15px 0px;   
+    float: left;       
+}   
+  
 
-.BandasFavoritas{
-    color:black;
-    background-color: blue;
-}
-
-.SobreViajens {
-    color: black;
-    background-color: greenyellow;
+span {
+    font-size: 30px;
+    
 }
