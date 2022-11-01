@@ -1,21 +1,37 @@
 .cabeçalho {
     max-width: 80%;
-    background-color: aqua;
+    background-color: black;
+    color: white;
     text-align: center;
     margin: 0 auto;
+    border-radius: 50%;
 }
 
 .conteudo {
     max-width: 90vw;
-    background-color: aquamarine;
+    background-color: black;
 }
 
 .caixas {
     background-color: red;
+    color: black;
     text-align: center;  
     width: 21vw;
     height: 6vw; 
     margin: 1vw 9vw;
     float: left;
+    border-radius: 50px;
+    
+}
+
+.Textos {
+    background-color: greenyellow;
+    color: black;
+    text-align: center;  
+    width: 21vw;
+    height: 13vw; 
+    margin: 1vw 9vw;
+    float: left;
+    border-radius: 50px;
     
 }
