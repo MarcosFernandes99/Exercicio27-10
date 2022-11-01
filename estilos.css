@@ -1,54 +1,21 @@
-.Nome {
-    font-size: 40px;
-    color: black;
-    background-color: red;
-    border-style: solid;   
-    margin-right: 100px;
-    padding: 5px 15px;
-}    
-
-.DataNascimento {
-    font-size: 40px;
-    color: black;
-    background-color: red;
-    border-style: solid;   
-    padding: 5px 15px;
+.cabeçalho {
+    max-width: 80%;
+    background-color: aqua;
+    text-align: center;
+    margin: 0 auto;
 }
 
-.Curso {
-    font-size: 40px;
-    color: black;
+.conteudo {
+    max-width: 90vw;
+    background-color: aquamarine;
+}
+
+.caixas {
     background-color: red;
-    border-style: solid;
-    padding: 5px 15px;
-    margin-right: 65px;
-}
-
-.Atualização {
-    font-size: 40px;
-    color: black;
-    background-color: red;
-    border-style: solid;
-    padding: 5px 15px;  
-}
-
-.Container{
-    height: 400px;
-    width: 400px;
-}
-
-.spans {    
-    color:black;
-    background-color: blue;
-    border-style: solid;
-   
-    padding: 15px 10px;
-    margin: 50px 50px 15px 0px;   
-    float: left;       
-}   
-  
-
-span {
-    font-size: 30px;
+    text-align: center;  
+    width: 21vw;
+    height: 6vw; 
+    margin: 1vw 9vw;
+    float: left;
     
 }
