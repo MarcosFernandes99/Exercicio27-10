@@ -1,0 +1,21 @@
+.cabeçalho {
+    max-width: 80%;
+    background-color: aqua;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.conteudo {
+    max-width: 90vw;
+    background-color: aquamarine;
+}
+
+.caixas {
+    background-color: red;
+    text-align: center;  
+    width: 21vw;
+    height: 6vw; 
+    margin: 1vw 9vw;
+    float: left;
+    
+}
